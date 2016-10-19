@@ -1,0 +1,22 @@
+3.1.6
+   Number of calls to put() = number W of words
+   Number of calls to get() = number W of words - number D of distinct words
+3.1.8
+   Gutenberg-tm 53
+3.1.9
+   length cutoff 1 : last word is zealous - # of words prior to insertion 10678
+   length cutoff 8 : last word is youunder - # of words prior to insertion 5130
+   length cutoff 10 : last word is youthfulness - # of words prior to insertion 2259   
+                     
+3.1.19
+   Program will be added in near future
+3.2.1
+   Picture included
+3.2.9
+   Picuter included
+3.
+   Picture included
+4.
+   Minimun number of nodes of depth N is: Depth = depth + 1
+5. 
+   Maximum number of nodes of depth N is: Depth = 2^(depth) - 1
