@@ -79,7 +79,7 @@ public class FrequencyCounter {
                 distinct++;
             }
         }
-        
+
         ArrayList<String> topWords = new ArrayList<>();
         ArrayList<Integer> topCount = new ArrayList<>();
          
@@ -100,10 +100,10 @@ public class FrequencyCounter {
               }                 
               //StdOut.println(word + " " + st.get(word));
            }
-           
+           // Inserting the highest frequency word and its count into their respective ArrayLists           
            topWords.add(max);
            topCount.add(num);
-           st.delete(max);
+           st.delete(max); //deleting the max from the table
         }//for loop, 10 times
         
         //StdOut.println(topWords.size());
