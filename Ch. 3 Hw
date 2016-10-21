@@ -9,7 +9,8 @@
    length cutoff 10 : last word is youthfulness - # of words prior to insertion 2259   
                      
 3.1.19
-   Program will be added in near future
+   Modified FrequencyCounter.java included with txt file taleTwo.txt 
+   which includes The Tale of Two Cities text.
 3.2.1
    Picture included
 3.2.9
