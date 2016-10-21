@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------------------
    Problem 3.1.19 in Algorithms book ch. 3.1
    
-   Code changes are made from line 79 onward, 
+   Code changes are made from line 83 onward, 
    Two ArrayLists were made to hold the Words and the Counts
    The for loop that was in place to find the highest frequency count was used
    to find the top 10 words in The Tale of Two Cities.
